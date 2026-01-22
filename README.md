@@ -31,7 +31,6 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 **Web Development**
 - MERN Stack  
 - PHP & MySQL  
-- REST APIs  
 - Firebase  
 
 **Tools**
