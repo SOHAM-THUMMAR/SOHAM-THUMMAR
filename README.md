@@ -18,6 +18,8 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 ## Tech Focus
 
 **AI / ML**
+- python
+- pandas, numpy
 - TensorFlow, Keras  
 - Model Training & Evaluation  
 - Computer Vision Basics  
@@ -29,7 +31,8 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 - MQTT & Device Communication  
 
 **Web Development**
-- MERN Stack  
+- MERN Stack
+- HTML, CSS, JS
 - PHP & MySQL  
 - Firebase  
 
@@ -37,7 +40,8 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 - Git & GitHub  
 - Linux  
 - Jupyter  
-- Figma  
+- Figma
+- anaconda
 
 ---
 
