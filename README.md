@@ -46,10 +46,8 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 ---
 
 ## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SOHAM-THUMMAR&theme=github_dark&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=SOHAM-THUMMAR&theme=github_dark&include_all_commits=true&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-THUMMAR&theme=github_dark&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=SOHAM-THUMMAR&theme=github_dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SOHAM-THUMMAR&theme=github_dark&layout=compact)
 
 ---
 
