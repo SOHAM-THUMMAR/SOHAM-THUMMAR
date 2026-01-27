@@ -63,3 +63,7 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 ## Goal
 
 To become an expert in AI, Robotics, and IoT by building impactful real-world projects and intelligent systems.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=pushparaj13811&style=flat-square)
