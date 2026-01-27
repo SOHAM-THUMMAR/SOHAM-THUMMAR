@@ -66,4 +66,4 @@ To become an expert in AI, Robotics, and IoT by building impactful real-world pr
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=pushparaj13811&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SOHAM-THUMMAR&style=flat-square)
