@@ -1,5 +1,5 @@
 <h1 align="center">Hellow!, I'm Soham Thummar</h1>
-<h3 align="center">AI/ML • Robotics • IoT • Full-Stack Developer</h3>
+<h3 align="center">AI/ML • IoT</h3>
 
 ---
 
@@ -29,12 +29,6 @@ I work on real-world projects involving machine learning, embedded systems, IoT 
 - Raspberry Pi  
 - Sensors, Automation Projects  
 - MQTT & Device Communication  
-
-**Web Development**
-- MERN Stack
-- HTML, CSS, JS
-- PHP & MySQL  
-- Firebase  
 
 **Tools**
 - Git & GitHub  
